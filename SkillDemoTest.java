@@ -6,6 +6,6 @@ public class SkillDemoTest
   @Test
   public void subtraction()
   {
-    assertEquals(5,SkillDemo.subtract(3,1));
+    assertEquals(5,SkillDemo.subtract(6,1));
   }    
 }
